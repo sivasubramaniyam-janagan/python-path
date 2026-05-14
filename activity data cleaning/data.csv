@@ -1,0 +1,11 @@
+id,name,age,gender,gpa,attendance,department
+S001,Alice Kumar,20,F,2.8,85%,Computer Science
+S002,Ben Silva,,M,3.2,90%,IT
+S003,Chamara Perera,22,M,,80%,Computer Science
+S004,David John,21,,3.5,95%,IT
+S005,Esha Fernando,20,F,3.9,100%,Data Science
+S006,Fahim Ali,23,M,2.4,70%,computer science
+S007,Gayan,twenty-one,M,3.0,88%,IT
+S008,Hansi Wickramasinghe,19,F,3.7,,Data Science
+S009,Isuru,20,M,3.1,85%,IT
+S010,Jana Fernando,21,M,NaN,92%,Computer Science
